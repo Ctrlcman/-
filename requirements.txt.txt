@@ -1,0 +1,7 @@
+streamlit
+diffusers
+transformers
+torch
+accelerate
+safetensors
+sentencepiece
